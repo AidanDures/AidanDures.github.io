@@ -21,10 +21,10 @@ profile:
   # scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   # limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+  # enabled: true
+  # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  # limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a first year PhD student on the Digital Twins for Healthcare CDT at King's College London. My project involves researching how Process Mining can be applied to a UK Healthcare Department to help understand discrepancies between models of the department and the real process. My first supervisor is Dr Steffen Zschaler, and this project is funded by and in collaboration with Synoptix Ltd. 
