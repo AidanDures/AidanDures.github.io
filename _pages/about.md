@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: Graduation_Headshot.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Informatics</p>
     <p>Bush House, Strand Campus</p>
