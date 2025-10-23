@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first year PhD student on the Digital Twins for Healthcare CDT at King's College London. My project involves looking at how Process Mining can be applied to a UK Healthcare Department to help understand discrepancies between models of the department and the real process. This project is funded by and in collaboration with Synoptix Ltd. 
+I am a first year PhD student on the Digital Twins for Healthcare CDT at King's College London. My project involves researching how Process Mining can be applied to a UK Healthcare Department to help understand discrepancies between models of the department and the real process. My first supervisor is Dr Steffen Zschaler, and this project is funded by and in collaboration with Synoptix Ltd. 
 
 Before I came to King's, I worked for a year in the Environmental Compliance sector, and before that completed my integrated master's degree in maths from Oxford. 
 
